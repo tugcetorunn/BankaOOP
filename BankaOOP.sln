@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaOOP_DLL", "BankaOOP_DLL\BankaOOP_DLL.csproj", "{01DEC758-A2B0-4660-8320-67C6FBC65826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaOOP_Run", "BankaOOP_Run\BankaOOP_Run.csproj", "{9EF37EFB-CD5C-498E-BAAF-D9DBAA454F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DEC758-A2B0-4660-8320-67C6FBC65826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DEC758-A2B0-4660-8320-67C6FBC65826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DEC758-A2B0-4660-8320-67C6FBC65826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DEC758-A2B0-4660-8320-67C6FBC65826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF37EFB-CD5C-498E-BAAF-D9DBAA454F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF37EFB-CD5C-498E-BAAF-D9DBAA454F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF37EFB-CD5C-498E-BAAF-D9DBAA454F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF37EFB-CD5C-498E-BAAF-D9DBAA454F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBE71D2-11E1-447D-B5EC-0BDB4572B461}
+	EndGlobalSection
+EndGlobal

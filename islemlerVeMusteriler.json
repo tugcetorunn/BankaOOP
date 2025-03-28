@@ -1,0 +1,222 @@
+[
+  {
+    "Bakiye": 31291.0,
+    "KuyrukSiraNo": 1,
+    "Islemler": [
+      {
+        "IslemId": 2761,
+        "IslemMiktari": 7036.0,
+        "IslemTarihi": "2025-03-21T14:16:47.9788796+03:00",
+        "Vezne": {
+          "VezneId": 1,
+          "Veznedar": {
+            "Id": 1586,
+            "Ad": "Hakan",
+            "Soyad": "Deniz"
+          }
+        }
+      }
+    ],
+    "Id": 1,
+    "Ad": "Nazlı",
+    "Soyad": "Dere"
+  },
+  {
+    "Bakiye": 16144.0,
+    "KuyrukSiraNo": 2,
+    "Islemler": [
+      {
+        "IslemId": 2738,
+        "IslemMiktari": 28073.0,
+        "IslemTarihi": "2025-03-17T14:16:47.9972795+03:00",
+        "Vezne": {
+          "VezneId": 2,
+          "Veznedar": {
+            "Id": 1946,
+            "Ad": "Nazlı",
+            "Soyad": "Kemik"
+          }
+        }
+      }
+    ],
+    "Id": 2,
+    "Ad": "Hande",
+    "Soyad": "Kemik"
+  },
+  {
+    "Bakiye": 9731.0,
+    "KuyrukSiraNo": 3,
+    "Islemler": [
+      {
+        "IslemId": 2947,
+        "IslemMiktari": 42514.0,
+        "IslemTarihi": "2025-03-26T14:16:47.9974046+03:00",
+        "Vezne": {
+          "VezneId": 1,
+          "Veznedar": {
+            "Id": 1586,
+            "Ad": "Hakan",
+            "Soyad": "Deniz"
+          }
+        }
+      }
+    ],
+    "Id": 3,
+    "Ad": "Hande",
+    "Soyad": "Kemik"
+  },
+  {
+    "Bakiye": 13151.0,
+    "KuyrukSiraNo": 4,
+    "Islemler": [
+      {
+        "IslemId": 2473,
+        "IslemMiktari": 26819.0,
+        "IslemTarihi": "2025-03-13T14:16:47.9974663+03:00",
+        "Vezne": {
+          "VezneId": 2,
+          "Veznedar": {
+            "Id": 1946,
+            "Ad": "Nazlı",
+            "Soyad": "Kemik"
+          }
+        }
+      }
+    ],
+    "Id": 4,
+    "Ad": "Hakan",
+    "Soyad": "Dağ"
+  },
+  {
+    "Bakiye": 8202.0,
+    "KuyrukSiraNo": 5,
+    "Islemler": [
+      {
+        "IslemId": 2474,
+        "IslemMiktari": 26437.0,
+        "IslemTarihi": "2025-03-10T14:16:47.9975264+03:00",
+        "Vezne": {
+          "VezneId": 1,
+          "Veznedar": {
+            "Id": 1586,
+            "Ad": "Hakan",
+            "Soyad": "Deniz"
+          }
+        }
+      }
+    ],
+    "Id": 5,
+    "Ad": "Gaye",
+    "Soyad": "Hare"
+  },
+  {
+    "Bakiye": 46112.0,
+    "KuyrukSiraNo": 6,
+    "Islemler": [
+      {
+        "IslemId": 2622,
+        "IslemMiktari": 25175.0,
+        "IslemTarihi": "2025-03-27T14:16:47.9975859+03:00",
+        "Vezne": {
+          "VezneId": 2,
+          "Veznedar": {
+            "Id": 1946,
+            "Ad": "Nazlı",
+            "Soyad": "Kemik"
+          }
+        }
+      }
+    ],
+    "Id": 6,
+    "Ad": "Kemal",
+    "Soyad": "Deniz"
+  },
+  {
+    "Bakiye": 3559.0,
+    "KuyrukSiraNo": 7,
+    "Islemler": [
+      {
+        "IslemId": 2068,
+        "IslemMiktari": 6839.0,
+        "IslemTarihi": "2025-03-09T14:16:47.9976463+03:00",
+        "Vezne": {
+          "VezneId": 1,
+          "Veznedar": {
+            "Id": 1586,
+            "Ad": "Hakan",
+            "Soyad": "Deniz"
+          }
+        }
+      }
+    ],
+    "Id": 7,
+    "Ad": "Nazlı",
+    "Soyad": "Dağ"
+  },
+  {
+    "Bakiye": 3611.0,
+    "KuyrukSiraNo": 8,
+    "Islemler": [
+      {
+        "IslemId": 2112,
+        "IslemMiktari": 47030.0,
+        "IslemTarihi": "2025-03-10T14:16:47.9982065+03:00",
+        "Vezne": {
+          "VezneId": 2,
+          "Veznedar": {
+            "Id": 1946,
+            "Ad": "Nazlı",
+            "Soyad": "Kemik"
+          }
+        }
+      }
+    ],
+    "Id": 8,
+    "Ad": "Nazlı",
+    "Soyad": "Hare"
+  },
+  {
+    "Bakiye": 27111.0,
+    "KuyrukSiraNo": 9,
+    "Islemler": [
+      {
+        "IslemId": 2734,
+        "IslemMiktari": 46119.0,
+        "IslemTarihi": "2025-03-20T14:16:47.998267+03:00",
+        "Vezne": {
+          "VezneId": 1,
+          "Veznedar": {
+            "Id": 1586,
+            "Ad": "Hakan",
+            "Soyad": "Deniz"
+          }
+        }
+      }
+    ],
+    "Id": 9,
+    "Ad": "Hakan",
+    "Soyad": "Hare"
+  },
+  {
+    "Bakiye": 3705.0,
+    "KuyrukSiraNo": 10,
+    "Islemler": [
+      {
+        "IslemId": 2915,
+        "IslemMiktari": 16615.0,
+        "IslemTarihi": "2025-03-22T14:16:47.998326+03:00",
+        "Vezne": {
+          "VezneId": 2,
+          "Veznedar": {
+            "Id": 1946,
+            "Ad": "Nazlı",
+            "Soyad": "Kemik"
+          }
+        }
+      }
+    ],
+    "Id": 10,
+    "Ad": "Gaye",
+    "Soyad": "Kemik"
+  }
+]
