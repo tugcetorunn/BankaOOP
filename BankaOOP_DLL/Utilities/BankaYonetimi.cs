@@ -91,15 +91,15 @@ namespace BankaOOP_DLL.Utilities
 
             if (sayi == 1)
             {
-                islem = new Havale() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
+                islem = new Havale() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), GonderilecekIBAN = rnd.Next(10000000, 100000000).ToString(), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
             }
             else if (sayi == 2)
             {
-                islem = new Havale() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
+                islem = new ParaYatirma() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
             }
             else
             {
-                islem = new Havale() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
+                islem = new ParaCekme() { IslemId = rnd.Next(2000, 3000), IslemMiktari = rnd.Next(1, 50000), IslemTarihi = DateTime.Now.AddDays(rnd.Next(1, 20) * (-1)), Musteri = musteri, Vezne = vezne };
             }
 
             // vezne.Islemler.Add(islem); // json dosyada veznedardan da işlemler sıralandığı için burası yorum satırına alındı.

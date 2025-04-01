@@ -34,4 +34,12 @@ foreach (var musteri in banka.Kuyruk.Musteriler)
 // json olarak kaydetme
 BankaYonetimi.DosyayaYaz("islemlerVeMusteriler.json", musteriler);
 
+foreach (var musteri in banka.Kuyruk.Musteriler)
+{
+    foreach (var islem in musteri.Islemler)
+    {
+        Console.WriteLine(islem.ToString());
+    }
+}
+
 Console.WriteLine();

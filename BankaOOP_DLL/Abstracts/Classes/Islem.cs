@@ -15,10 +15,13 @@ namespace BankaOOP_DLL.Abstracts.Classes
         public DateTime IslemTarihi { get; set; }
         public Musteri? Musteri { get; set; } // Bir veznede aynı anda sadece bir müşteri kabul edilip işlem yapacak.
         public Vezne? Vezne { get; set; }
+        public string IslemTipi { get; set; }
 
         public override string ToString()
         {
             return $"{IslemId} - {IslemTarihi} - Müşteri : {Musteri} - {Vezne.ToString()}";
         }
+
+        public abstract void IslemYap(Musteri musteri);
     }
 }
